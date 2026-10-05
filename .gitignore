@@ -1,0 +1,15 @@
+# C 编译产物，不需要提交到 GitHub
+*.exe
+*.o
+*.out
+*.a
+
+# 调试信息文件
+*.elf
+*.map
+
+# VS Code 个人设置，不需要提交
+.vscode/
+
+# Code Runner 临时文件
+tempCodeRunnerFile.c
